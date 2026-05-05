@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+~$*
+.DS_Store
+Thumbs.db
+export.csv
+DSA210_Spring2026_ProjectGuidelines*.docx
