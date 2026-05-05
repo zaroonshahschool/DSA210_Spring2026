@@ -17,8 +17,6 @@ Open-Meteo settings used for the weather file:
 
 Open-Meteo documentation: `https://open-meteo.com/en/docs/historical-weather-api`
 
-The older `export.csv` file in my local folder is not used in the analysis because it covers January 2025, while this project uses 2023 for the merged dataset.
-
 ## Hypothesis Testing Summary
 
 The data collection, EDA, and hypothesis testing files are:
